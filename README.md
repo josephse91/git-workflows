@@ -5,3 +5,5 @@ This line is added within the fetch data of the branch
 Writing text with no problems.
 
 More conflicts to solve.
+
+*Future test are pending*
