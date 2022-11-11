@@ -2,4 +2,6 @@ This line includes adjustments to the readme which may cause conflicts. (resolve
 
 This line is added within the fetch data of the branch
 
-Writing text with no problems
+Writing text with no problems.
+
+More conflicts to solve.
