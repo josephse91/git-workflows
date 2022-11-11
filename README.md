@@ -6,4 +6,4 @@ Writing text with no problems.
 
 More conflict solving is the way to get better.
 
-*hello there*
+*Final test of the pull feature with conflict*
