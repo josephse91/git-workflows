@@ -1,4 +1,4 @@
-This line includes adjustments to the readme which WILL cause conflicts. (resolved)
+This line was previously Resolved
 
 This line is added within the fetch data of the branch
 
