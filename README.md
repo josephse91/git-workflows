@@ -6,6 +6,7 @@ Writing text with no problems.
 
 More conflicts to solve.
 
-*Future test are pending*
+*Testing fetch and pull is now complete*
 
 This line is after the coding session with Victor 11/13/2022
+
